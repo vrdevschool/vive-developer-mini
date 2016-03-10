@@ -1,0 +1,46 @@
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild[s]/
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+$RECYCLE.BIN/
+[Dd]esktop.ini
+[Dd]esktop.ini.meta
+
+# Xcode project #
+# ============= #
+
+
+# Sublime Project Settings #
+/*.sublime-project
+/*.sublime-workspace
+
+# Big Assets #
+# ============= #
+WorkingAssets/
